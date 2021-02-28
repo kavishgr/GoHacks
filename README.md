@@ -1,0 +1,2 @@
+# GoHacks
+My Golang Scripts
